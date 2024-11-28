@@ -1,0 +1,13 @@
+name: "Unifier"
+website_url: "https://unifierhq.org"
+source_code_url: "https://github.com/UnifierHQ/unifier"
+description: "A cross-server and cross-platform bridge bot that works just as fast as you can type 🚀"
+licenses:
+  - AGPL-3.0
+platforms:
+  - Python
+tags:
+  - Communication - Social Networks and Forums
+depends_3rdparty: true
+demo_url: "https://unifierhq.org/install.html"
+related_software_url: "https://my.awesome.softwar.e/apps"
